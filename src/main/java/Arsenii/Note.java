@@ -16,4 +16,6 @@ public class Note {
     public Note(String value) {
         this.value = value;
     }
+
+    public Note() {}
 }
